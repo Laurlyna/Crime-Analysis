@@ -17,5 +17,5 @@ Analysis of Los Angeles crime data (2020-2025) using SQL and Excel to uncover cr
 - crime_analysis.sql — Data cleaning and Exploratory Data Analysis
 
 ## Dashboard Preview
-
+![Crime Analysis Dashboard](Crime-Analysis_Dashboard.png)
 
